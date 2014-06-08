@@ -1,3 +1,5 @@
 javac -source 1.2 -bootclasspath "C:\Program Files (x86)\Java\jre7\lib\rt.jar" threads/ch02/example01/Factorial.java
 
 javac -Xlint:deprecation -source 1.5 -bootclasspath "C:\Program Files (x86)\Java\jre7\lib\rt.jar" threads/ch02/example02/*.java
+
+df
