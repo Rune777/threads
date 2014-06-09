@@ -3,7 +3,7 @@ package threads.ch02.example02;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import threads.ch02.*; //kommentar
+import threads.ch02.*; 
 
 public class SwingTypeTester extends JFrame implements CharacterSource{
 
