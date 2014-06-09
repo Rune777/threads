@@ -1,5 +1,5 @@
 package threads.ch02.example02;
-
+//utvikling
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
